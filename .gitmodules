@@ -1,0 +1,3 @@
+[submodule "MathiasBynens"]
+	path = MathiasBynens
+	url = git@github.com:mathiasbynens/dotfiles.git

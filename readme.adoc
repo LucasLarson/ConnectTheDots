@@ -9,6 +9,11 @@ shell scripting, especially with Bash and Zsh, nor’d’ve I been able to craft
 own `~/.`s. The repositories that’ve been most helpful are included
 here as&nbsp;submodules.
 
+Dotfiles
+~~~~~~~~
+. https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/.aliases[Mathias
+  Bynens^]
+
 License
 ~~~~~~~
 On the little content here where I’m the author, it’s released under
