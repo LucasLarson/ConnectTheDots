@@ -1,0 +1,16 @@
+Connect the Dots
+----------------
+
+🏡  su casa es mi casa
+
+This is a collection of some of the
+https://github.com/search?q=dotfiles[dotfiles^] without which I’dn’t’ve learned
+shell scripting, especially with Bash and Zsh, nor’d’ve I been able to craft my
+own `~/.`s. The repositories that’ve been most helpful are included
+here as&nbsp;submodules.
+
+License
+~~~~~~~
+On the little content here where I’m the author, it’s released under
+https://github.com/LucasLarson/ConnectTheDots/blob/main/license.adoc[a license]
+bidirectionally compatible with the GNU Affero General Public License v3.
