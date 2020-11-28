@@ -13,6 +13,8 @@ Dotfiles
 ~~~~~~~~
 . https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/.aliases[Mathias
   Bynens^]
+. https://github.com/mcornella/dotfiles/blob/e62b0d4c4f18a0373d8a7a1b4ddaa2e21b7f1ffd/zshenv[Marc
+  Cornellà^]
 
 License
 ~~~~~~~
