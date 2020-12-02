@@ -11,6 +11,8 @@ here as&nbsp;submodules.
 
 Dotfiles
 ~~~~~~~~
+. https://github.com/ustasb/dotfiles/commit/da93f0f5b2ef6491d6c2f96e53c29a241d2f82c5#diff-4c2d312ff50ee6b26c2cb601fc96a95eceabe4b456831762e5d6caf41b900383R127-R129[Brian
+  Ustas^]
 . https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/.aliases[Mathias
   Bynens^]
 . https://github.com/mcornella/dotfiles/blob/e62b0d4c4f18a0373d8a7a1b4ddaa2e21b7f1ffd/zshenv[Marc
