@@ -7,3 +7,6 @@
 [submodule "BrianUstas"]
 	path = BrianUstas
 	url = git@github.com:ustasb/dotfiles.git
+[submodule "MarcoFerrari"]
+	path = MarcoFerrari
+	url = git@github.com:ferrarimarco/dotfiles.git
