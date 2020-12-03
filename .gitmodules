@@ -10,3 +10,6 @@
 [submodule "MarcoFerrari"]
 	path = MarcoFerrari
 	url = git@github.com:ferrarimarco/dotfiles.git
+[submodule "BillyWayneMcCann"]
+	path = BillyWayneMcCann
+	url = git@github.com:exergonic/dotfiles.git

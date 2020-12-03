@@ -11,6 +11,8 @@ here as&nbsp;submodules.
 
 Dotfiles
 ~~~~~~~~
+* https://github.com/exergonic/dotfiles/blob/c0fbd7b1efa30fa17001637f948a7cfe83bebec9/shell/aliases#L35[Billy
+  Wayne McCann^]
 * https://github.com/ustasb/dotfiles/commit/da93f0f5b2ef6491d6c2f96e53c29a241d2f82c5#diff-4c2d312ff50ee6b26c2cb601fc96a95eceabe4b456831762e5d6caf41b900383R127-R129[Brian
   Ustas^]
 * https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/.aliases[Mathias
