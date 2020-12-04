@@ -19,7 +19,8 @@ Dotfiles
   Bynens^]
 * https://github.com/mcornella/dotfiles/blob/e62b0d4c4f18a0373d8a7a1b4ddaa2e21b7f1ffd/zshenv[Marc
   Cornellà^]
-* https://github.com/ferrarimarco/dotfiles/search?q=shellcheck+zsh[Marco Ferrari^]
+* https://github.com/ferrarimarco/dotfiles/search?q=shellcheck+zsh[Marco
+  Ferrari^]
 
 License
 ~~~~~~~
