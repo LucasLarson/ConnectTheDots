@@ -13,3 +13,6 @@
 [submodule "BillyWayneMcCann"]
 	path = BillyWayneMcCann
 	url = git@github.com:exergonic/dotfiles.git
+[submodule "LarsKappert"]
+	path = LarsKappert
+	url = git@github.com:webpro/dotfiles.git
