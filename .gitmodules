@@ -16,3 +16,6 @@
 [submodule "LarsKappert"]
 	path = LarsKappert
 	url = git@github.com:webpro/dotfiles.git
+[submodule "MarcelBischoff"]
+	path = MarcelBischoff
+	url = git@github.com:herrbischoff/dotpr0n.git
