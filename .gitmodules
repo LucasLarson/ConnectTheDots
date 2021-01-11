@@ -19,3 +19,6 @@
 [submodule "MarcelBischoff"]
 	path = MarcelBischoff
 	url = git@github.com:herrbischoff/dotpr0n.git
+[submodule "GeorgeGritsouk"]
+	path = GeorgeGritsouk
+	url = git@github.com:gggritso/dotfiles.git

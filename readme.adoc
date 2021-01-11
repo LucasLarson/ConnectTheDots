@@ -15,6 +15,8 @@ Dotfiles
   Wayne McCann^]
 * https://github.com/ustasb/dotfiles/commit/da93f0f5b2ef6491d6c2f96e53c29a241d2f82c5#diff-4c2d312ff50ee6b26c2cb601fc96a95eceabe4b456831762e5d6caf41b900383R127-R129[Brian
   Ustas^]
+* https://github.com/gggritso/dotfiles/blob/14218480eb64b884e3a65843f95e5293ae9796dd/gitconfig.symlink#L4-L5#:~:text=unstage%20%3D%20reset%20HEAD%20--[George
+  Gritsouk^]
 * https://github.com/webpro/awesome-dotfiles/tree/3cda132a2a8969ad42d8d2246464a86f1315b232#bash[Lars
   Kappert^]
 * https://github.com/herrbischoff/dotpr0n/commit/327f4a45d74b061b5224ce6067874d18b5cd4647#diff-0b5ca119d2be595aa307d34512d9679e49186307ef94201e4b3dfa079aa89938L5-R5[Marcel
