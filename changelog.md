@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/LucasLarson/ConnectTheDots/tree/HEAD)
+
+[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v0.0.1...HEAD)
+
+**Merged pull requests:**
+
+- Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/ConnectTheDots/pull/1) ([whitesource-bolt-for-github[bot]](https://github.com/apps/whitesource-bolt-for-github))
+
 ## [v0.0.1](https://github.com/LucasLarson/ConnectTheDots/tree/v0.0.1) (2020-11-28)
 
 [Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/b6e36721f7639dbb7b722d9ac57494c25bde44ce...v0.0.1)
