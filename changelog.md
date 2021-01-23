@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Configure Renovate [\#2](https://github.com/LucasLarson/ConnectTheDots/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
 - Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/ConnectTheDots/pull/1) ([whitesource-bolt-for-github[bot]](https://github.com/apps/whitesource-bolt-for-github))
 
 ## [v0.0.1](https://github.com/LucasLarson/ConnectTheDots/tree/v0.0.1) (2020-11-28)
