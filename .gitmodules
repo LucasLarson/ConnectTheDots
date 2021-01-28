@@ -25,3 +25,6 @@
 [submodule "TimButters"]
 	path = TimButters
 	url = git@github.com:TimButters/dotfiles.git
+[submodule "GregHurrell"]
+	path = GregHurrell
+	url = git@github.com:wincent/wincent.git
