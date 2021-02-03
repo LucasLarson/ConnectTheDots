@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- add kitchen-sink @Dependabot configuration [\#3](https://github.com/LucasLarson/ConnectTheDots/pull/3) ([LucasLarson](https://github.com/LucasLarson))
 - Configure Renovate [\#2](https://github.com/LucasLarson/ConnectTheDots/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
 - Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/ConnectTheDots/pull/1) ([whitesource-bolt-for-github[bot]](https://github.com/apps/whitesource-bolt-for-github))
 
