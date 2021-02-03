@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - use literal non-breaking space, zero-width joiner for code markup [\#9](https://github.com/LucasLarson/ConnectTheDots/pull/9) ([LucasLarson](https://github.com/LucasLarson))
+- Bump BillyWayneMcCann from `391861d` to `bd8af52` [\#5](https://github.com/LucasLarson/ConnectTheDots/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcCornellà from `18fe3ec` to `ca5a236` [\#4](https://github.com/LucasLarson/ConnectTheDots/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
 - add kitchen-sink @Dependabot configuration [\#3](https://github.com/LucasLarson/ConnectTheDots/pull/3) ([LucasLarson](https://github.com/LucasLarson))
 - Configure Renovate [\#2](https://github.com/LucasLarson/ConnectTheDots/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
