@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump MarcoFerrari from `216cbda` to `70bbb8d` [\#13](https://github.com/LucasLarson/ConnectTheDots/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump BrianUstas from `0328e6d` to `f44d813` [\#12](https://github.com/LucasLarson/ConnectTheDots/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcCornellà from `ca5a236` to `cc21391` [\#10](https://github.com/LucasLarson/ConnectTheDots/pull/10) ([dependabot[bot]](https://github.com/apps/dependabot))
 - use literal non-breaking space, zero-width joiner for code markup [\#9](https://github.com/LucasLarson/ConnectTheDots/pull/9) ([LucasLarson](https://github.com/LucasLarson))
 - Bump MarcoFerrari from `c238d19` to `216cbda` [\#8](https://github.com/LucasLarson/ConnectTheDots/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
