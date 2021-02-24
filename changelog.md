@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v0.0.1...HEAD)
 
+**Implemented enhancements:**
+
+- add `--allow-empty` to `git commit` to prevent workflow errors [\#16](https://github.com/LucasLarson/ConnectTheDots/pull/16) ([LucasLarson](https://github.com/LucasLarson))
+
 **Merged pull requests:**
 
 - Bump MarcoFerrari from `70bbb8d` to `2071568` [\#15](https://github.com/LucasLarson/ConnectTheDots/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
