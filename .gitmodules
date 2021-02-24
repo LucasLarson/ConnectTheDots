@@ -28,3 +28,6 @@
 [submodule "GregHurrell"]
 	path = GregHurrell
 	url = git@github.com:wincent/wincent.git
+[submodule "NicolaPaolucci"]
+	path = NicolaPaolucci
+	url = git@github.com:durdn/cfg.git

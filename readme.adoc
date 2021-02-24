@@ -29,6 +29,8 @@ Dotfiles
   Cornellà^]
 * https://github.com/ferrarimarco/dotfiles/search?q=shellcheck+zsh[Marco
   Ferrari^]
+* https://github.com/durdn/cfg/blob/0d07c47ced58330e20565c7a45018c61114dfc4c/.gitconfig[Nicola
+Paolucci^]
 * https://github.com/TimButters/dotfiles/blob/3e03c81fef94d46a7e8f3a63156aa2e928215d4a/zshrc#L46-L50[Tim
   Butters^]
 
