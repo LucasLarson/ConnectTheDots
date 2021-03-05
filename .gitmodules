@@ -31,6 +31,3 @@
 [submodule "NicolaPaolucci"]
 	path = NicolaPaolucci
 	url = git@github.com:durdn/cfg.git
-[submodule "DrewDeVault"]
-	path = DrewDeVault
-	url = https://git.sr.ht/~sircmpwn/dotfiles
