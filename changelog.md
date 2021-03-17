@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Bump GregHurrell from `5f66b7a` to `44383c2` [\#26](https://github.com/LucasLarson/ConnectTheDots/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump GregHurrell from `f71806f` to `5f66b7a` [\#25](https://github.com/LucasLarson/ConnectTheDots/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcelBischoff from `4ae012c` to `963ee97` [\#24](https://github.com/LucasLarson/ConnectTheDots/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcelBischoff from `907d28d` to `4ae012c` [\#22](https://github.com/LucasLarson/ConnectTheDots/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
