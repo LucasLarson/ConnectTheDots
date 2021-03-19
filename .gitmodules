@@ -1,33 +1,33 @@
 [submodule "MarcCornellà"]
-	path = MarcCornellà
+	path = mcornella
 	url = git@github.com:mcornella/dotfiles.git
 [submodule "MathiasBynens"]
 	path = MathiasBynens
 	url = git@github.com:mathiasbynens/dotfiles.git
 [submodule "BrianUstas"]
-	path = BrianUstas
+	path = ustasb
 	url = git@github.com:ustasb/dotfiles.git
 [submodule "MarcoFerrari"]
-	path = MarcoFerrari
+	path = ferrarimarco
 	url = git@github.com:ferrarimarco/dotfiles.git
 [submodule "BillyWayneMcCann"]
-	path = BillyWayneMcCann
+	path = exergonic
 	url = git@github.com:exergonic/dotfiles.git
 [submodule "LarsKappert"]
-	path = LarsKappert
+	path = webpro
 	url = git@github.com:webpro/dotfiles.git
 [submodule "MarcelBischoff"]
-	path = MarcelBischoff
+	path = herrbischoff
 	url = git@github.com:herrbischoff/dotpr0n.git
 [submodule "GeorgeGritsouk"]
-	path = GeorgeGritsouk
+	path = gggritso
 	url = git@github.com:gggritso/dotfiles.git
 [submodule "TimButters"]
 	path = TimButters
 	url = git@github.com:TimButters/dotfiles.git
 [submodule "GregHurrell"]
-	path = GregHurrell
+	path = wincent
 	url = git@github.com:wincent/wincent.git
 [submodule "NicolaPaolucci"]
-	path = NicolaPaolucci
+	path = durdn
 	url = git@github.com:durdn/cfg.git
