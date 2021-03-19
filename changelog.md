@@ -4,8 +4,20 @@
 
 [Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v0.0.1...HEAD)
 
+**Implemented enhancements:**
+
+- add `--allow-empty` to `git commit` to prevent workflow errors [\#16](https://github.com/LucasLarson/ConnectTheDots/pull/16) ([LucasLarson](https://github.com/LucasLarson))
+
 **Merged pull requests:**
 
+- Bump MarcelBischoff from `963ee97` to `a95b770` [\#27](https://github.com/LucasLarson/ConnectTheDots/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump GregHurrell from `5f66b7a` to `44383c2` [\#26](https://github.com/LucasLarson/ConnectTheDots/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump GregHurrell from `f71806f` to `5f66b7a` [\#25](https://github.com/LucasLarson/ConnectTheDots/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump MarcelBischoff from `4ae012c` to `963ee97` [\#24](https://github.com/LucasLarson/ConnectTheDots/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump MarcelBischoff from `907d28d` to `4ae012c` [\#22](https://github.com/LucasLarson/ConnectTheDots/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump MarcelBischoff from `06b5d54` to `907d28d` [\#20](https://github.com/LucasLarson/ConnectTheDots/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump BillyWayneMcCann from `bd8af52` to `04868dd` [\#19](https://github.com/LucasLarson/ConnectTheDots/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump MarcelBischoff from `d87735c` to `06b5d54` [\#18](https://github.com/LucasLarson/ConnectTheDots/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcoFerrari from `70bbb8d` to `2071568` [\#15](https://github.com/LucasLarson/ConnectTheDots/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump GregHurrell from `cb5b2aa` to `f71806f` [\#14](https://github.com/LucasLarson/ConnectTheDots/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcoFerrari from `216cbda` to `70bbb8d` [\#13](https://github.com/LucasLarson/ConnectTheDots/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
