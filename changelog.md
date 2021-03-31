@@ -8,6 +8,10 @@
 
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#16](https://github.com/LucasLarson/ConnectTheDots/pull/16) ([LucasLarson](https://github.com/LucasLarson))
 
+**Fixed bugs:**
+
+- add `--allow-empty` to `git commit` to prevent workflow errors [\#28](https://github.com/LucasLarson/ConnectTheDots/pull/28) ([LucasLarson](https://github.com/LucasLarson))
+
 **Merged pull requests:**
 
 - Bump herrbischoff from `2d0d910` to `3aec2bf` [\#34](https://github.com/LucasLarson/ConnectTheDots/pull/34) ([dependabot[bot]](https://github.com/apps/dependabot))
