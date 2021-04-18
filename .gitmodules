@@ -31,3 +31,6 @@
 [submodule "NicolaPaolucci"]
 	path = durdn
 	url = git@github.com:durdn/cfg.git
+[submodule "xero"]
+	path = xero
+	url = git@github.com:xero/dotfiles.git

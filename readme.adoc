@@ -35,6 +35,8 @@ Dotfiles
 Paolucci^]
 * https://github.com/TimButters/dotfiles/blob/3e03c81fef94d46a7e8f3a63156aa2e928215d4a/zshrc#L46-L50[Tim
   Butters^]
+* https://github.com/xero/dotfiles/blob/c8fa7984099a71378839d8796553b73f41113e90/bin/bin/gitio[Xero
+  Harrison^]
 
 License
 ~~~~~~~
