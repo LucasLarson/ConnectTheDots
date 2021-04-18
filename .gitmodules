@@ -31,3 +31,6 @@
 [submodule "NicolaPaolucci"]
 	path = durdn
 	url = git@github.com:durdn/cfg.git
+[submodule "DriesVints"]
+	path = DriesVints
+	url = git@github.com:driesvints/dotfiles.git
