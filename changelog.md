@@ -14,7 +14,9 @@
 
 **Merged pull requests:**
 
+- add xero’s dotfiles [\#49](https://github.com/LucasLarson/ConnectTheDots/pull/49) ([LucasLarson](https://github.com/LucasLarson))
 - Bump herrbischoff from `a8157d6` to `d681e20` [\#48](https://github.com/LucasLarson/ConnectTheDots/pull/48) ([dependabot[bot]](https://github.com/apps/dependabot))
+- add @DriesVints’s dotfiles [\#47](https://github.com/LucasLarson/ConnectTheDots/pull/47) ([LucasLarson](https://github.com/LucasLarson))
 - add @PaulIrish’s dotfiles [\#46](https://github.com/LucasLarson/ConnectTheDots/pull/46) ([LucasLarson](https://github.com/LucasLarson))
 - Bump herrbischoff from `68aa15a` to `a8157d6` [\#45](https://github.com/LucasLarson/ConnectTheDots/pull/45) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump herrbischoff from `b7a7ef9` to `68aa15a` [\#44](https://github.com/LucasLarson/ConnectTheDots/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
