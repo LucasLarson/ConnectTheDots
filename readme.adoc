@@ -17,7 +17,7 @@ Dotfiles
   Ustas^]
 * https://git.sr.ht/~sircmpwn/dotfiles/tree/730a6d11558f03823c26fbaa8641cc8e96fa7b4b/item/.vimrc[Drew
   DeVault^]
-* https://github.com/driesvints/dotfiles/blob/388baf13d1b3856c4920ee62bfed1f10339498ec/path.zsh#L17[Dries
+* https://github.com/driesvints/dotfiles/blob/77eb7d3a485acc0134ac8a9f927a7fcf2dce6c23/osx/.path#L2[Dries
 Vints^]
 * https://github.com/gggritso/dotfiles/blob/14218480eb64b884e3a65843f95e5293ae9796dd/gitconfig.symlink#L4-L5#:~:text=unstage%20%3D%20reset%20HEAD%20--[George
   Gritsouk^]
