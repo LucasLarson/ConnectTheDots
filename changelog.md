@@ -14,6 +14,7 @@
 
 **Merged pull requests:**
 
+- Bump wincent from `a9c5e8a` to `53ea39f` [\#51](https://github.com/LucasLarson/ConnectTheDots/pull/51) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `f421dfb` to `a9c5e8a` [\#50](https://github.com/LucasLarson/ConnectTheDots/pull/50) ([dependabot[bot]](https://github.com/apps/dependabot))
 - add xero’s dotfiles [\#49](https://github.com/LucasLarson/ConnectTheDots/pull/49) ([LucasLarson](https://github.com/LucasLarson))
 - Bump herrbischoff from `a8157d6` to `d681e20` [\#48](https://github.com/LucasLarson/ConnectTheDots/pull/48) ([dependabot[bot]](https://github.com/apps/dependabot))
