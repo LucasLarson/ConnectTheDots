@@ -14,6 +14,7 @@
 
 **Merged pull requests:**
 
+- Bump ferrarimarco from `d8b1973` to `597ce73` [\#52](https://github.com/LucasLarson/ConnectTheDots/pull/52) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `a9c5e8a` to `53ea39f` [\#51](https://github.com/LucasLarson/ConnectTheDots/pull/51) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `f421dfb` to `a9c5e8a` [\#50](https://github.com/LucasLarson/ConnectTheDots/pull/50) ([dependabot[bot]](https://github.com/apps/dependabot))
 - add xero’s dotfiles [\#49](https://github.com/LucasLarson/ConnectTheDots/pull/49) ([LucasLarson](https://github.com/LucasLarson))
