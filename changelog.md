@@ -16,6 +16,7 @@
 
 - Bump herrbischoff from `d681e20` to `ec4d611` [\#60](https://github.com/LucasLarson/ConnectTheDots/pull/60) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump DriesVints from `8f41ea7` to `28c3df3` [\#59](https://github.com/LucasLarson/ConnectTheDots/pull/59) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ferrarimarco from `1628593` to `e7c08a8` [\#58](https://github.com/LucasLarson/ConnectTheDots/pull/58) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ferrarimarco from `597ce73` to `1628593` [\#56](https://github.com/LucasLarson/ConnectTheDots/pull/56) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `53ea39f` to `bd8d5d6` [\#55](https://github.com/LucasLarson/ConnectTheDots/pull/55) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump mcornella from `9e7b43f` to `0e8f273` [\#54](https://github.com/LucasLarson/ConnectTheDots/pull/54) ([dependabot[bot]](https://github.com/apps/dependabot))
