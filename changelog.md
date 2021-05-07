@@ -12,6 +12,10 @@
 
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#28](https://github.com/LucasLarson/ConnectTheDots/pull/28) ([LucasLarson](https://github.com/LucasLarson))
 
+**Closed issues:**
+
+- `actions/setup-ruby` is deprecated [\#61](https://github.com/LucasLarson/ConnectTheDots/issues/61)
+
 **Merged pull requests:**
 
 - Bump wincent from `bd8d5d6` to `09bd7e3` [\#65](https://github.com/LucasLarson/ConnectTheDots/pull/65) ([dependabot[bot]](https://github.com/apps/dependabot))
