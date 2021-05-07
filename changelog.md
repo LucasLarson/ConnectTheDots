@@ -14,6 +14,7 @@
 
 **Merged pull requests:**
 
+- Bump wincent from `bd8d5d6` to `09bd7e3` [\#65](https://github.com/LucasLarson/ConnectTheDots/pull/65) ([dependabot[bot]](https://github.com/apps/dependabot))
 - remove inactive @TypoCI configuration [\#64](https://github.com/LucasLarson/ConnectTheDots/pull/64) ([LucasLarson](https://github.com/LucasLarson))
 - Bump DriesVints from `28c3df3` to `66ae1ac` [\#62](https://github.com/LucasLarson/ConnectTheDots/pull/62) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump herrbischoff from `d681e20` to `ec4d611` [\#60](https://github.com/LucasLarson/ConnectTheDots/pull/60) ([dependabot[bot]](https://github.com/apps/dependabot))
