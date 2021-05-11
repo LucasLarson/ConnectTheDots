@@ -18,7 +18,7 @@ Dotfiles
 * https://git.sr.ht/~sircmpwn/dotfiles/tree/730a6d11558f03823c26fbaa8641cc8e96fa7b4b/item/.vimrc[Drew
   DeVault^]
 * https://github.com/driesvints/dotfiles/blob/77eb7d3a485acc0134ac8a9f927a7fcf2dce6c23/osx/.path#L2[Dries
-Vints^]
+  Vints^]
 * https://github.com/gggritso/dotfiles/blob/14218480eb64b884e3a65843f95e5293ae9796dd/gitconfig.symlink#L4-L5#:~:text=unstage%20%3D%20reset%20HEAD%20--[George
   Gritsouk^]
 * https://github.com/wincent/wincent/blob/5f1ea417a6e904ef21a679944a624cbc0d1530a7/aspects/dotfiles/files/.zshrc#L65-L73[Greg
@@ -34,9 +34,9 @@ Vints^]
 * https://github.com/ferrarimarco/dotfiles/search?q=shellcheck+zsh[Marco
   Ferrari^]
 * https://github.com/durdn/cfg/blob/0d07c47ced58330e20565c7a45018c61114dfc4c/.gitconfig[Nicola
-Paolucci^]
+  Paolucci^]
 * https://github.com/paulirish/dotfiles/blob/ccccd0726a8607133fc81115413a934e88e6d0a8/.dircolors[Paul
-Irish^]
+  Irish^]
 * https://github.com/TimButters/dotfiles/blob/3e03c81fef94d46a7e8f3a63156aa2e928215d4a/zshrc#L46-L50[Tim
   Butters^]
 * https://github.com/xero/dotfiles/blob/c8fa7984099a71378839d8796553b73f41113e90/bin/bin/gitio[Xero
