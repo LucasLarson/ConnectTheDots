@@ -40,3 +40,6 @@
 [submodule "DriesVints"]
 	path = DriesVints
 	url = git@github.com:driesvints/dotfiles.git
+[submodule "arp242"]
+	path = arp242
+	url = git@github.com:arp242/dotfiles.git
