@@ -19,6 +19,7 @@
 
 **Merged pull requests:**
 
+- Bump wincent from `8d3743e` to `c21dc72` [\#81](https://github.com/LucasLarson/ConnectTheDots/pull/81) ([dependabot[bot]](https://github.com/apps/dependabot))
 - expand DeepSource configuration [\#80](https://github.com/LucasLarson/ConnectTheDots/pull/80) ([LucasLarson](https://github.com/LucasLarson))
 - Bump exergonic from `04868dd` to `a935368` [\#79](https://github.com/LucasLarson/ConnectTheDots/pull/79) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `09bd7e3` to `8d3743e` [\#78](https://github.com/LucasLarson/ConnectTheDots/pull/78) ([dependabot[bot]](https://github.com/apps/dependabot))
