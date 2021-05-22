@@ -11,6 +11,7 @@
 
 **Fixed bugs:**
 
+- repair @Actions `user.name`, `user.email` [\#84](https://github.com/LucasLarson/ConnectTheDots/pull/84) ([LucasLarson](https://github.com/LucasLarson))
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#28](https://github.com/LucasLarson/ConnectTheDots/pull/28) ([LucasLarson](https://github.com/LucasLarson))
 
 **Closed issues:**
