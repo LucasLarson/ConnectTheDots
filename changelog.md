@@ -20,6 +20,8 @@
 
 **Merged pull requests:**
 
+- Bump PaulIrish from `de11baa` to `64c6956` [\#88](https://github.com/LucasLarson/ConnectTheDots/pull/88) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update github/super-linter action to v4 [\#86](https://github.com/LucasLarson/ConnectTheDots/pull/86) ([renovate[bot]](https://github.com/apps/renovate))
 - Bump DriesVints from `b476302` to `cbe2e02` [\#85](https://github.com/LucasLarson/ConnectTheDots/pull/85) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `c21dc72` to `a3082be` [\#83](https://github.com/LucasLarson/ConnectTheDots/pull/83) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump mcornella from `0e8f273` to `912d0d0` [\#82](https://github.com/LucasLarson/ConnectTheDots/pull/82) ([dependabot[bot]](https://github.com/apps/dependabot))
