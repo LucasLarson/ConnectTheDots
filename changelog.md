@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- add @DeepSourceLabs `exclude_patterns` [\#91](https://github.com/LucasLarson/ConnectTheDots/pull/91) ([LucasLarson](https://github.com/LucasLarson))
 - add @arp242’s dotfiles [\#67](https://github.com/LucasLarson/ConnectTheDots/pull/67) ([LucasLarson](https://github.com/LucasLarson))
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#16](https://github.com/LucasLarson/ConnectTheDots/pull/16) ([LucasLarson](https://github.com/LucasLarson))
 
