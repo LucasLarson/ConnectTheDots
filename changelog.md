@@ -21,6 +21,7 @@
 
 **Merged pull requests:**
 
+- Bump wincent from `a473e79` to `7e6f1af` [\#97](https://github.com/LucasLarson/ConnectTheDots/pull/97) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `fb5f88f` to `a473e79` [\#96](https://github.com/LucasLarson/ConnectTheDots/pull/96) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `3aa9426` to `fb5f88f` [\#95](https://github.com/LucasLarson/ConnectTheDots/pull/95) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `8d9a7dc` to `3aa9426` [\#94](https://github.com/LucasLarson/ConnectTheDots/pull/94) ([dependabot[bot]](https://github.com/apps/dependabot))
