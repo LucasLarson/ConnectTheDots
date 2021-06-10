@@ -43,3 +43,6 @@
 [submodule "arp242"]
 	path = arp242
 	url = git@github.com:arp242/dotfiles.git
+[submodule "mislav"]
+	path = mislav
+	url = git@github.com:mislav/dotfiles.git
