@@ -35,6 +35,8 @@ Dotfiles
   Tournoij^]
 * https://github.com/mathiasbynens/dotfiles/blob/e42090bf49f860283951041709163653c8a2c522/.aliases[Mathias
   Bynens^]
+* https://github.com/mislav/dotfiles/tree/88cccec99d991d991b3ecf9a95496ccb28d75bc9/bin#git-utilities[Mislav
+  Marohnić^]
 * https://github.com/durdn/cfg/blob/0d07c47ced58330e20565c7a45018c61114dfc4c/.gitconfig[Nicola
   Paolucci^]
 * https://github.com/paulirish/dotfiles/blob/ccccd0726a8607133fc81115413a934e88e6d0a8/.dircolors[Paul
