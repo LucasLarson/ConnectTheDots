@@ -21,6 +21,8 @@
 
 **Merged pull requests:**
 
+- add @DeepSourceLabs `exclude_patterns` [\#104](https://github.com/LucasLarson/ConnectTheDots/pull/104) ([LucasLarson](https://github.com/LucasLarson))
+- Bump ferrarimarco from `e7c08a8` to `aee63e6` [\#101](https://github.com/LucasLarson/ConnectTheDots/pull/101) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `a87a25e` to `8cfd825` [\#100](https://github.com/LucasLarson/ConnectTheDots/pull/100) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `c917ea1` to `a87a25e` [\#99](https://github.com/LucasLarson/ConnectTheDots/pull/99) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `7e6f1af` to `c917ea1` [\#98](https://github.com/LucasLarson/ConnectTheDots/pull/98) ([dependabot[bot]](https://github.com/apps/dependabot))
