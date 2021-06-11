@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- add @mislav’s dotfiles [\#102](https://github.com/LucasLarson/ConnectTheDots/pull/102) ([LucasLarson](https://github.com/LucasLarson))
 - add @DeepSourceLabs `exclude_patterns` [\#91](https://github.com/LucasLarson/ConnectTheDots/pull/91) ([LucasLarson](https://github.com/LucasLarson))
 - add @arp242’s dotfiles [\#67](https://github.com/LucasLarson/ConnectTheDots/pull/67) ([LucasLarson](https://github.com/LucasLarson))
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#16](https://github.com/LucasLarson/ConnectTheDots/pull/16) ([LucasLarson](https://github.com/LucasLarson))
@@ -22,6 +23,7 @@
 **Merged pull requests:**
 
 - add @DeepSourceLabs `exclude_patterns` [\#104](https://github.com/LucasLarson/ConnectTheDots/pull/104) ([LucasLarson](https://github.com/LucasLarson))
+- repair @Actions [\#103](https://github.com/LucasLarson/ConnectTheDots/pull/103) ([LucasLarson](https://github.com/LucasLarson))
 - Bump ferrarimarco from `e7c08a8` to `aee63e6` [\#101](https://github.com/LucasLarson/ConnectTheDots/pull/101) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `a87a25e` to `8cfd825` [\#100](https://github.com/LucasLarson/ConnectTheDots/pull/100) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `c917ea1` to `a87a25e` [\#99](https://github.com/LucasLarson/ConnectTheDots/pull/99) ([dependabot[bot]](https://github.com/apps/dependabot))
