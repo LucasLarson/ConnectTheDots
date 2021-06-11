@@ -22,6 +22,7 @@
 
 **Merged pull requests:**
 
+- Bump ferrarimarco from `aee63e6` to `01bc03a` [\#105](https://github.com/LucasLarson/ConnectTheDots/pull/105) ([dependabot[bot]](https://github.com/apps/dependabot))
 - add @DeepSourceLabs `exclude_patterns` [\#104](https://github.com/LucasLarson/ConnectTheDots/pull/104) ([LucasLarson](https://github.com/LucasLarson))
 - repair @Actions [\#103](https://github.com/LucasLarson/ConnectTheDots/pull/103) ([LucasLarson](https://github.com/LucasLarson))
 - Bump ferrarimarco from `e7c08a8` to `aee63e6` [\#101](https://github.com/LucasLarson/ConnectTheDots/pull/101) ([dependabot[bot]](https://github.com/apps/dependabot))
