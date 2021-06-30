@@ -46,3 +46,6 @@
 [submodule "mislav"]
 	path = mislav
 	url = git@github.com:mislav/dotfiles.git
+[submodule "awdeorio"]
+	path = awdeorio
+	url = git@github.com:awdeorio/dotfiles.git
