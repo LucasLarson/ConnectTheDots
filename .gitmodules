@@ -18,7 +18,7 @@
 	url = git@github.com:webpro/dotfiles.git
 [submodule "MarcelBischoff"]
 	path = herrbischoff
-	url = git@github.com:herrbischoff/dotpr0n.git
+	url = https://git.herrbischoff.com/dotpr0n
 [submodule "GeorgeGritsouk"]
 	path = gggritso
 	url = git@github.com:gggritso/dotfiles.git
