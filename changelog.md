@@ -23,6 +23,7 @@
 **Merged pull requests:**
 
 - Bump wincent from `6fcb5e4` to `4270bbf` [\#196](https://github.com/LucasLarson/ConnectTheDots/pull/196) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump mcornella from `a1ca3c7` to `292c399` [\#195](https://github.com/LucasLarson/ConnectTheDots/pull/195) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump herrbischoff from `5fc7304` to `8cb676c` [\#194](https://github.com/LucasLarson/ConnectTheDots/pull/194) ([LucasLarson](https://github.com/LucasLarson))
 - restore @DDevault dotfiles \(undo 310014a\) [\#193](https://github.com/LucasLarson/ConnectTheDots/pull/193) ([LucasLarson](https://github.com/LucasLarson))
 - set @HerrBischoff dotfiles URL to https://git.herrbischoff.com/dotpr0n [\#192](https://github.com/LucasLarson/ConnectTheDots/pull/192) ([LucasLarson](https://github.com/LucasLarson))
