@@ -49,3 +49,6 @@
 [submodule "awdeorio"]
 	path = awdeorio
 	url = git@github.com:awdeorio/dotfiles.git
+[submodule "sircmpwn"]
+	path = sircmpwn
+	url = https://git.sr.ht/~sircmpwn/dotfiles
