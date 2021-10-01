@@ -22,6 +22,7 @@
 
 **Merged pull requests:**
 
+- restore @DDevault dotfiles \(undo 310014a\) [\#208](https://github.com/LucasLarson/ConnectTheDots/pull/208) ([LucasLarson](https://github.com/LucasLarson))
 - Bump wincent from `31c562e` to `d0f553b` [\#206](https://github.com/LucasLarson/ConnectTheDots/pull/206) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `4270bbf` to `31c562e` [\#205](https://github.com/LucasLarson/ConnectTheDots/pull/205) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump mcornella from `3387bba` to `97917fb` [\#204](https://github.com/LucasLarson/ConnectTheDots/pull/204) ([dependabot[bot]](https://github.com/apps/dependabot))
