@@ -22,6 +22,7 @@
 
 **Merged pull requests:**
 
+- Bump wincent from `16da41e` to `1ab3289` [\#215](https://github.com/LucasLarson/ConnectTheDots/pull/215) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump herrbischoff from `8843c20` to `90cfa75` [\#214](https://github.com/LucasLarson/ConnectTheDots/pull/214) ([LucasLarson](https://github.com/LucasLarson))
 - bump awdeorio from `8bd84bf` to `671dd9a` [\#213](https://github.com/LucasLarson/ConnectTheDots/pull/213) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `2f26753` to `46c96de` [\#212](https://github.com/LucasLarson/ConnectTheDots/pull/212) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -161,6 +162,7 @@
 - Bump MarcelBischoff from `d87735c` to `06b5d54` [\#18](https://github.com/LucasLarson/ConnectTheDots/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcoFerrari from `70bbb8d` to `2071568` [\#15](https://github.com/LucasLarson/ConnectTheDots/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump GregHurrell from `cb5b2aa` to `f71806f` [\#14](https://github.com/LucasLarson/ConnectTheDots/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump MarcoFerrari from `216cbda` to `70bbb8d` [\#13](https://github.com/LucasLarson/ConnectTheDots/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump BrianUstas from `0328e6d` to `f44d813` [\#12](https://github.com/LucasLarson/ConnectTheDots/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump MarcCornellà from `ca5a236` to `cc21391` [\#10](https://github.com/LucasLarson/ConnectTheDots/pull/10) ([dependabot[bot]](https://github.com/apps/dependabot))
 - use literal non-breaking space, zero-width joiner for code markup [\#9](https://github.com/LucasLarson/ConnectTheDots/pull/9) ([LucasLarson](https://github.com/LucasLarson))
