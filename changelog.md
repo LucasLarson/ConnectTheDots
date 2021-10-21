@@ -18,10 +18,12 @@
 
 **Closed issues:**
 
+- Action Required: Fix Renovate Configuration [\#221](https://github.com/LucasLarson/ConnectTheDots/issues/221)
 - `actions/setup-ruby` is deprecated [\#61](https://github.com/LucasLarson/ConnectTheDots/issues/61)
 
 **Merged pull requests:**
 
+- Bump ferrarimarco from `50fb1a7` to `ec23fab` [\#222](https://github.com/LucasLarson/ConnectTheDots/pull/222) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `1ab3289` to `e1c319b` [\#220](https://github.com/LucasLarson/ConnectTheDots/pull/220) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ferrarimarco from `2236803` to `50fb1a7` [\#219](https://github.com/LucasLarson/ConnectTheDots/pull/219) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump awdeorio from `a5149ce` to `3e5038c` [\#218](https://github.com/LucasLarson/ConnectTheDots/pull/218) ([dependabot[bot]](https://github.com/apps/dependabot))
