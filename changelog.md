@@ -23,6 +23,7 @@
 
 **Merged pull requests:**
 
+- Bump webpro from `77c258d` to `766f79f` [\#258](https://github.com/LucasLarson/ConnectTheDots/pull/258) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `02904ac` to `010ceb2` [\#257](https://github.com/LucasLarson/ConnectTheDots/pull/257) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump DriesVints from `eeee232` to `a518a73` [\#256](https://github.com/LucasLarson/ConnectTheDots/pull/256) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump exergonic from `a935368` to `c72cfb4` [\#255](https://github.com/LucasLarson/ConnectTheDots/pull/255) ([dependabot[bot]](https://github.com/apps/dependabot))
