@@ -27,12 +27,12 @@ jobs:
         run: |
           command gem install github_changelog_generator
           command github_changelog_generator \
-          -u ${{ github.repository_owner }} \
-          -p "$(command git rev-parse --show-toplevel |
-          command xargs basename)" \
-          -t ${{ secrets.GITHUB_TOKEN }} \
-          --exclude-labels duplicate,question,invalid,wontfix,nodoc \
-          --output changelog.md
+            -u ${{ github.repository_owner }} \
+            -p "$(command git rev-parse --show-toplevel |
+              command xargs basename)" \
+            -t ${{ secrets.GITHUB_TOKEN }} \
+            --exclude-labels duplicate,question,invalid,wontfix,nodoc \
+            --output changelog.md
       - name: Commit files
         run: |
           command git config -- user.email 'actions@github.com'
