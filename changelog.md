@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- enhance shell scripting within changelog generator [\#279](https://github.com/LucasLarson/ConnectTheDots/pull/279) ([LucasLarson](https://github.com/LucasLarson))
 - add @mislav’s dotfiles [\#102](https://github.com/LucasLarson/ConnectTheDots/pull/102) ([LucasLarson](https://github.com/LucasLarson))
 - add @DeepSourceLabs `exclude_patterns` [\#91](https://github.com/LucasLarson/ConnectTheDots/pull/91) ([LucasLarson](https://github.com/LucasLarson))
 - add @arp242’s dotfiles [\#67](https://github.com/LucasLarson/ConnectTheDots/pull/67) ([LucasLarson](https://github.com/LucasLarson))
