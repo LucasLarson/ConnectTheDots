@@ -4,13 +4,13 @@ name: Changelog
 on:
   push:
     branches:
-      - main
+      [main, changelog]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 4
-    if: "!contains(github.event.head_commit.message, '[ci skip]')"
+    if: "!contains(github.event.head_commit.message, 'update changelog')"
     steps:
       - uses: actions/checkout@v2
       - name: Set up Ruby
@@ -39,7 +39,7 @@ jobs:
           command git config -- user.name 'GitHub'
           command git add --verbose --all
           command git commit --allow-empty --verbose \
-            --message='[ci skip] update changelog'
+            --message='update changelog'
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
