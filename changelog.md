@@ -24,6 +24,7 @@
 
 **Merged pull requests:**
 
+- Bump DriesVints from `6ece1c9` to `60dd66b` [\#299](https://github.com/LucasLarson/ConnectTheDots/pull/299) ([dependabot[bot]](https://github.com/apps/dependabot))
 - remove `[ci skip]` prefix from changelog-generated message [\#298](https://github.com/LucasLarson/ConnectTheDots/pull/298) ([LucasLarson](https://github.com/LucasLarson))
 - Bump ferrarimarco from `db1424a` to `b674dff` [\#297](https://github.com/LucasLarson/ConnectTheDots/pull/297) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ustasb from `44e10e2` to `f7a9008` [\#296](https://github.com/LucasLarson/ConnectTheDots/pull/296) ([dependabot[bot]](https://github.com/apps/dependabot))
