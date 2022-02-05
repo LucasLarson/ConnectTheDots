@@ -52,3 +52,6 @@
 [submodule "sircmpwn"]
 	path = sircmpwn
 	url = https://git.sr.ht/~sircmpwn/dotfiles
+[submodule "victor-engmark"]
+	path = victor-engmark
+	url = https://gitlab.com/victor-engmark/tilde.git
