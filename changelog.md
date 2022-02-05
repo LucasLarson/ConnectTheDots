@@ -6,6 +6,8 @@
 
 **Implemented enhancements:**
 
+- add @l0bo/@victor-catalyst/@victor-engmark dotfiles [\#330](https://github.com/LucasLarson/ConnectTheDots/issues/330)
+- add @l0b0’s dotfiles \(fix \#330\) [\#331](https://github.com/LucasLarson/ConnectTheDots/pull/331) ([LucasLarson](https://github.com/LucasLarson))
 - enhance shell scripting within changelog generator [\#279](https://github.com/LucasLarson/ConnectTheDots/pull/279) ([LucasLarson](https://github.com/LucasLarson))
 - add @mislav’s dotfiles [\#102](https://github.com/LucasLarson/ConnectTheDots/pull/102) ([LucasLarson](https://github.com/LucasLarson))
 - add @DeepSourceLabs `exclude_patterns` [\#91](https://github.com/LucasLarson/ConnectTheDots/pull/91) ([LucasLarson](https://github.com/LucasLarson))
