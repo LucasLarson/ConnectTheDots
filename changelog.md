@@ -26,6 +26,11 @@
 
 **Merged pull requests:**
 
+- Bump ferrarimarco from `d0424c2` to `a23c7cc` [\#348](https://github.com/LucasLarson/ConnectTheDots/pull/348) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump DriesVints from `11cb748` to `70dcbee` [\#347](https://github.com/LucasLarson/ConnectTheDots/pull/347) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump wincent from `5be6eee` to `5767926` [\#346](https://github.com/LucasLarson/ConnectTheDots/pull/346) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ustasb from `36abebc` to `641f7c9` [\#344](https://github.com/LucasLarson/ConnectTheDots/pull/344) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump awdeorio from `35904e8` to `b54dd74` [\#342](https://github.com/LucasLarson/ConnectTheDots/pull/342) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump awdeorio from `03086bd` to `35904e8` [\#338](https://github.com/LucasLarson/ConnectTheDots/pull/338) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump victor-engmark from `28982ec` to `0c28dfa` [\#337](https://github.com/LucasLarson/ConnectTheDots/pull/337) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump victor-engmark from `fa1c914` to `28982ec` [\#336](https://github.com/LucasLarson/ConnectTheDots/pull/336) ([dependabot[bot]](https://github.com/apps/dependabot))
