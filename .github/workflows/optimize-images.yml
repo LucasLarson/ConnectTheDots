@@ -22,7 +22,7 @@ jobs:
     name: Optimize images
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: calibreapp/image-actions@1.1.0
         id: calibre
         with:
