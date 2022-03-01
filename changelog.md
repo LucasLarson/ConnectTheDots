@@ -27,6 +27,7 @@
 **Merged pull requests:**
 
 - Update actions/checkout action to v3 [\#353](https://github.com/LucasLarson/ConnectTheDots/pull/353) ([renovate[bot]](https://github.com/apps/renovate))
+- Bump DriesVints from `70dcbee` to `a811a93` [\#352](https://github.com/LucasLarson/ConnectTheDots/pull/352) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `3fee81a` to `818eea7` [\#351](https://github.com/LucasLarson/ConnectTheDots/pull/351) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `5767926` to `3fee81a` [\#349](https://github.com/LucasLarson/ConnectTheDots/pull/349) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ferrarimarco from `d0424c2` to `a23c7cc` [\#348](https://github.com/LucasLarson/ConnectTheDots/pull/348) ([dependabot[bot]](https://github.com/apps/dependabot))
