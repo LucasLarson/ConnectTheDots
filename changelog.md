@@ -26,6 +26,7 @@
 
 **Merged pull requests:**
 
+- Bump victor-engmark from `0c28dfa` to `5888a41` [\#359](https://github.com/LucasLarson/ConnectTheDots/pull/359) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Update actions/checkout action to v3 [\#353](https://github.com/LucasLarson/ConnectTheDots/pull/353) ([renovate[bot]](https://github.com/apps/renovate))
 - Bump DriesVints from `70dcbee` to `a811a93` [\#352](https://github.com/LucasLarson/ConnectTheDots/pull/352) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `3fee81a` to `818eea7` [\#351](https://github.com/LucasLarson/ConnectTheDots/pull/351) ([dependabot[bot]](https://github.com/apps/dependabot))
