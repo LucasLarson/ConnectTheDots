@@ -26,6 +26,7 @@
 
 **Merged pull requests:**
 
+- Bump gggritso from `d3540e9` to `25a03ae` [\#369](https://github.com/LucasLarson/ConnectTheDots/pull/369) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump DriesVints from `a811a93` to `a49647e` [\#367](https://github.com/LucasLarson/ConnectTheDots/pull/367) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump gggritso from `ab9dfb6` to `d3540e9` [\#366](https://github.com/LucasLarson/ConnectTheDots/pull/366) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump victor-engmark from `f274bcc` to `94338c9` [\#365](https://github.com/LucasLarson/ConnectTheDots/pull/365) ([dependabot[bot]](https://github.com/apps/dependabot))
