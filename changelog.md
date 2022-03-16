@@ -16,11 +16,13 @@
 
 **Fixed bugs:**
 
+- repair JSON syntax \(fix \#371\) [\#372](https://github.com/LucasLarson/ConnectTheDots/pull/372) ([LucasLarson](https://github.com/LucasLarson))
 - repair @Actions `user.name`, `user.email` [\#84](https://github.com/LucasLarson/ConnectTheDots/pull/84) ([LucasLarson](https://github.com/LucasLarson))
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#28](https://github.com/LucasLarson/ConnectTheDots/pull/28) ([LucasLarson](https://github.com/LucasLarson))
 
 **Closed issues:**
 
+- broken JSON in `.imgbotconfig` [\#371](https://github.com/LucasLarson/ConnectTheDots/issues/371)
 - Action Required: Fix Renovate Configuration [\#221](https://github.com/LucasLarson/ConnectTheDots/issues/221)
 - `actions/setup-ruby` is deprecated [\#61](https://github.com/LucasLarson/ConnectTheDots/issues/61)
 
