@@ -28,6 +28,7 @@
 
 **Merged pull requests:**
 
+- Bump arp242 from `8d54081` to `875cb1e` [\#378](https://github.com/LucasLarson/ConnectTheDots/pull/378) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump peter-evans/create-pull-request from 3 to 4 [\#377](https://github.com/LucasLarson/ConnectTheDots/pull/377) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump `actions/cache` action from v2 to v3 [\#376](https://github.com/LucasLarson/ConnectTheDots/pull/376) ([renovate[bot]](https://github.com/apps/renovate))
 - Bump mcornella from `41cf7d8` to `4fbe69a` [\#375](https://github.com/LucasLarson/ConnectTheDots/pull/375) ([dependabot[bot]](https://github.com/apps/dependabot))
