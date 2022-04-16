@@ -28,6 +28,7 @@
 
 **Merged pull requests:**
 
+- Bump DriesVints from `54feec6` to `9aff144` [\#401](https://github.com/LucasLarson/ConnectTheDots/pull/401) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump @DDeVault from `bd3859e` to `b8173c0` [\#400](https://github.com/LucasLarson/ConnectTheDots/pull/400) ([LucasLarson](https://github.com/LucasLarson))
 - Bump exergonic from `c72cfb4` to `ea5b844` [\#399](https://github.com/LucasLarson/ConnectTheDots/pull/399) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ferrarimarco from `d47bddc` to `c372b99` [\#398](https://github.com/LucasLarson/ConnectTheDots/pull/398) ([dependabot[bot]](https://github.com/apps/dependabot))
