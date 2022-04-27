@@ -16,6 +16,7 @@
 
 **Fixed bugs:**
 
+- `git.io` deprecation [\#408](https://github.com/LucasLarson/ConnectTheDots/issues/408)
 - repair JSON syntax \(fix \#371\) [\#372](https://github.com/LucasLarson/ConnectTheDots/pull/372) ([LucasLarson](https://github.com/LucasLarson))
 - repair @Actions `user.name`, `user.email` [\#84](https://github.com/LucasLarson/ConnectTheDots/pull/84) ([LucasLarson](https://github.com/LucasLarson))
 - add `--allow-empty` to `git commit` to prevent workflow errors [\#28](https://github.com/LucasLarson/ConnectTheDots/pull/28) ([LucasLarson](https://github.com/LucasLarson))
@@ -28,6 +29,8 @@
 
 **Merged pull requests:**
 
+- remove `git.io` links \(fix \#408\) [\#409](https://github.com/LucasLarson/ConnectTheDots/pull/409) ([LucasLarson](https://github.com/LucasLarson))
+- Bump mcornella from `72e3a74` to `2554696` [\#406](https://github.com/LucasLarson/ConnectTheDots/pull/406) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump DriesVints from `9aff144` to `04b0608` [\#405](https://github.com/LucasLarson/ConnectTheDots/pull/405) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `d4c3d8a` to `10fc6ac` [\#404](https://github.com/LucasLarson/ConnectTheDots/pull/404) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `1718f6e` to `d4c3d8a` [\#402](https://github.com/LucasLarson/ConnectTheDots/pull/402) ([dependabot[bot]](https://github.com/apps/dependabot))
