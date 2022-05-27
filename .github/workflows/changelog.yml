@@ -27,10 +27,29 @@ jobs:
         run: |
           command gem install github_changelog_generator
           command github_changelog_generator \
-            --user ${{ github.repository_owner }} \
-            --project "$(command git rev-parse --show-toplevel |
-              command xargs basename)" \
-            --token ${{ secrets.GITHUB_TOKEN }} \
+            --user "$(
+              command git config --get-regexp -- 'remote.*url' |
+                command sed -E -e 's/(git@|https:..)//' |
+                command sed -e 's/:/\//' |
+                command sed -e 's/\.git$//' |
+                command awk -F '/' '{print $2}' |
+                LC_ALL='C' command sort -u
+            )" \
+            --project "$(
+              command git remote get-url "$(
+                {
+                  command git config --get --worktree checkout.defaultRemote ||
+                    command git config --get --local checkout.defaultRemote ||
+                    command git config --get --system checkout.defaultRemote ||
+                    command git config --get --global checkout.defaultRemote ||
+                    printf "origin\n"
+                } 2>/dev/null
+              )" |
+                command tr -d "[:space:]" |
+                command xargs basename |
+                command sed -e "s|.git$||"
+            )" \
+            --token ${{ secrets.GITHUB_TOKEN || secrets.PAT }} \
             --exclude-labels duplicate,question,invalid,wontfix,nodoc \
             --output changelog.md
       - name: Commit files
@@ -38,10 +57,11 @@ jobs:
           command git config -- user.email 'actions@github.com'
           command git config -- user.name 'GitHub'
           command git add --verbose --all
-          command git commit --allow-empty --verbose \
-            --message='update changelog'
+          command git commit --verbose \
+            --message='update changelog' ||
+            exit 0
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN || secrets.PAT }}
           branch: ${{ github.ref }}
