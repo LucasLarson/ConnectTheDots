@@ -29,6 +29,8 @@
 
 **Merged pull requests:**
 
+- bump ferrarimarco from `19f0e2a` to `c7810c2` [\#430](https://github.com/LucasLarson/ConnectTheDots/pull/430) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump awdeorio from `0508c02` to `bde9fb5` [\#429](https://github.com/LucasLarson/ConnectTheDots/pull/429) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump PaulIrish from `54d2ed6` to `679fb9e` [\#428](https://github.com/LucasLarson/ConnectTheDots/pull/428) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump wincent from `446ff26` to `2ebcb18` [\#427](https://github.com/LucasLarson/ConnectTheDots/pull/427) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ferrarimarco from `577ae94` to `19f0e2a` [\#426](https://github.com/LucasLarson/ConnectTheDots/pull/426) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -352,7 +354,7 @@
 - Bump MarcCornellà from `18fe3ec` to `ca5a236` [\#4](https://github.com/LucasLarson/ConnectTheDots/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
 - add kitchen-sink @Dependabot configuration [\#3](https://github.com/LucasLarson/ConnectTheDots/pull/3) ([LucasLarson](https://github.com/LucasLarson))
 - Configure Renovate [\#2](https://github.com/LucasLarson/ConnectTheDots/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
-- Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/ConnectTheDots/pull/1) ([whitesource-bolt-for-github[bot]](https://github.com/apps/whitesource-bolt-for-github))
+- Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/ConnectTheDots/pull/1) ([mend-bolt-for-github[bot]](https://github.com/apps/mend-bolt-for-github))
 
 ## [v0.0.1](https://github.com/LucasLarson/ConnectTheDots/tree/v0.0.1) (2020-11-28)
 
