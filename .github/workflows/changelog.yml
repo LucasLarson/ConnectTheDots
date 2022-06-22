@@ -24,23 +24,24 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1.0
-      - uses: actions/cache@v3
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gem-
-      - name: Create local changes
+      - name: Install `github_changelog_generator`
         run: |
           command gem install github_changelog_generator
+      - name: Install `markdownlint`
+        run: |
+          command npm install markdownlint
+          command npm install markdownlint-cli
+      - name: Create local changes
+        run: |
           command github_changelog_generator \
             --user "$(
               command git config --get-regexp -- 'remote.*url' |
-                command sed -E -e 's/(git@|https:..)//' |
-                command sed -e 's/:/\//' |
-                command sed -e 's/\.git$//' |
+                command sed -E \
+                  -e 's/(git@|https:\/\/)//' \
+                  -e 's/:/\//' \
+                  -e 's/\.git$//' |
                 command awk -F '/' '{print $2}' |
-                LC_ALL='C' command sort -u
+                command head -n 1
             )" \
             --project "$(
               command git remote get-url "$(
@@ -52,18 +53,49 @@ jobs:
                 } 2>/dev/null ||
                   printf 'origin'
               )" |
-                command tr -d "[:space:]" |
+                command tr -d '[:space:]' |
                 command xargs basename |
-                command sed -e "s|.git$||"
+                command sed -e 's/\.git$//'
             )" \
             --token ${{ secrets.GITHUB_TOKEN || secrets.PAT }} \
-            --exclude-labels duplicate,question,invalid,wontfix,nodoc \
-            --output changelog.md
+            --exclude-labels 'duplicate,question,invalid,wontfix,nodoc' \
+            --output "$(
+              command find -- . \
+                -maxdepth 1 \
+                -type f \
+                -name '*.m*d*' \
+                '(' \
+                -name 'change*log*' -o \
+                -name 'CHANGE*LOG*' \
+                ')' |
+                command sed -e 's/^.\///'
+            )"
+      - name: Lint changelog
+        run: |
+          command find -- . \
+            -maxdepth 1 \
+            -type f \
+            -name '*.m*d*' \
+            '(' \
+            -name 'change*log*' -o \
+            -name 'CHANGE*LOG*' \
+            ')' \
+            -print \
+            -exec npm exec -- markdownlint --fix -- '{}' ';'
       - name: Commit files
         run: |
           command git config -- user.email 'actions@github.com'
           command git config -- user.name 'GitHub'
-          command git add --verbose --all
+          command find -- . \
+            -maxdepth 1 \
+            -type f \
+            -name '*.m*d*' \
+            '(' \
+            -name 'change*log*' -o \
+            -name 'CHANGE*LOG*' \
+            ')' \
+            -print \
+            -exec git add --verbose -- '{}' ';'
           command git commit --verbose \
             --message='update changelog' ||
             exit 0
