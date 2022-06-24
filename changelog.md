@@ -6,7 +6,9 @@
 
 **Implemented enhancements:**
 
+- use a less surprising license [\#434](https://github.com/LucasLarson/ConnectTheDots/issues/434)
 - add @l0bo/@victor-catalyst/@victor-engmark dotfiles [\#330](https://github.com/LucasLarson/ConnectTheDots/issues/330)
+- use less surprising license \(fix \#434\) [\#454](https://github.com/LucasLarson/ConnectTheDots/pull/454) ([LucasLarson](https://github.com/LucasLarson))
 - add @l0b0’s dotfiles \(fix \#330\) [\#331](https://github.com/LucasLarson/ConnectTheDots/pull/331) ([LucasLarson](https://github.com/LucasLarson))
 - enhance shell scripting within changelog generator [\#279](https://github.com/LucasLarson/ConnectTheDots/pull/279) ([LucasLarson](https://github.com/LucasLarson))
 - add @mislav’s dotfiles [\#102](https://github.com/LucasLarson/ConnectTheDots/pull/102) ([LucasLarson](https://github.com/LucasLarson))
