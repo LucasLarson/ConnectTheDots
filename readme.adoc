@@ -5,9 +5,9 @@ Connect the Dots
 
 This is a collection of some of the
 https://github.com/search?q=dotfiles[dotfiles^] without which I’dn’t’ve learned
-shell scripting, especially with Bash and Zsh, nor’d’ve I been able to craft my
-own `~/.`‍s. The repositories that’ve been most helpful are included
-here as&nbsp;submodules.
+shell scripting, especially with Bash and Zsh, nor’d’ve I been able to craft
+https://github.com/LucasLarson/dotfiles[my own `~/.`‍s^]. The
+repositories that’ve been most helpful are included here as&nbsp;submodules.
 
 Dotfiles
 ~~~~~~~~
