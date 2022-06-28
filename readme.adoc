@@ -1,5 +1,4 @@
-Connect the Dots
-----------------
+= Connect the Dots
 
 🏡  su casa es mi casa
 
@@ -9,8 +8,8 @@ shell scripting, especially with Bash and Zsh, nor’d’ve I been able to craft
 https://github.com/LucasLarson/dotfiles[my own `~/.`‍s^]. The
 repositories that’ve been most helpful are included here as&nbsp;submodules.
 
-Dotfiles
-~~~~~~~~
+== Dotfiles
+
 * https://github.com/awdeorio/dotfiles/commit/a7b8f209ea7dc55efaf59d8f23e55b0b32c002e6[Andrew
   DeOrio^]
 * https://github.com/exergonic/dotfiles/blob/c0fbd7b1efa30fa17001637f948a7cfe83bebec9/shell/aliases#L35[Billy
@@ -50,8 +49,8 @@ Dotfiles
 * https://github.com/xero/dotfiles/blob/c8fa7984099a71378839d8796553b73f41113e90/bin/bin/gitio[Xero
   Harrison^]
 
-License
-~~~~~~~
+== License
+
 For the little content here where I’m the author, it’s licensed under any
 https://github.com/LucasLarson/ConnectTheDots/blob/HEAD/license.adoc[GNU Affero
 General Public License^] whose version number is no less than&nbsp;3.0.
