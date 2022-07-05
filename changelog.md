@@ -2,12 +2,28 @@
 
 ## [Unreleased](https://github.com/LucasLarson/ConnectTheDots/tree/HEAD)
 
-[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v0.0.1...HEAD)
+[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v1.0.0...HEAD)
+
+**Fixed bugs:**
+
+- repair AsciiDoc syntax [\#462](https://github.com/LucasLarson/ConnectTheDots/issues/462)
+- repair AsciiDoc syntax \(fix \#462\) [\#463](https://github.com/LucasLarson/ConnectTheDots/pull/463) ([LucasLarson](https://github.com/LucasLarson))
+
+**Merged pull requests:**
+
+- bump wincent from `e83a566` to `97e764f` [\#465](https://github.com/LucasLarson/ConnectTheDots/pull/465) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump wincent from `1b26d8b` to `e83a566` [\#464](https://github.com/LucasLarson/ConnectTheDots/pull/464) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v1.0.0](https://github.com/LucasLarson/ConnectTheDots/tree/v1.0.0) (2022-06-28)
+
+[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v0.0.1...v1.0.0)
 
 **Implemented enhancements:**
 
+- link to the dotfiles mentioned in the readme [\#460](https://github.com/LucasLarson/ConnectTheDots/issues/460)
 - use a less surprising license [\#434](https://github.com/LucasLarson/ConnectTheDots/issues/434)
 - add @l0bo/@victor-catalyst/@victor-engmark dotfiles [\#330](https://github.com/LucasLarson/ConnectTheDots/issues/330)
+- link to dotfiles mentioned in readme \(fix \#460\) [\#461](https://github.com/LucasLarson/ConnectTheDots/pull/461) ([LucasLarson](https://github.com/LucasLarson))
 - use less surprising license \(fix \#434\) [\#454](https://github.com/LucasLarson/ConnectTheDots/pull/454) ([LucasLarson](https://github.com/LucasLarson))
 - add @l0b0’s dotfiles \(fix \#330\) [\#331](https://github.com/LucasLarson/ConnectTheDots/pull/331) ([LucasLarson](https://github.com/LucasLarson))
 - enhance shell scripting within changelog generator [\#279](https://github.com/LucasLarson/ConnectTheDots/pull/279) ([LucasLarson](https://github.com/LucasLarson))
@@ -32,6 +48,7 @@
 **Merged pull requests:**
 
 - bump wincent from `15b6777` to `1b26d8b` [\#459](https://github.com/LucasLarson/ConnectTheDots/pull/459) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump DriesVints from `1e6aca1` to `5b506f8` [\#458](https://github.com/LucasLarson/ConnectTheDots/pull/458) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `5843be8` to `9ff849f` [\#456](https://github.com/LucasLarson/ConnectTheDots/pull/456) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `d871dd7` to `15b6777` [\#455](https://github.com/LucasLarson/ConnectTheDots/pull/455) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `97143b5` to `d871dd7` [\#453](https://github.com/LucasLarson/ConnectTheDots/pull/453) ([dependabot[bot]](https://github.com/apps/dependabot))
