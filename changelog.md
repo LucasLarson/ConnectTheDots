@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v1.0.0...HEAD)
 
+**Implemented enhancements:**
+
+- remove unhelpful top-level symlinks to top-level submodules [\#472](https://github.com/LucasLarson/ConnectTheDots/issues/472)
+- remove symlinks to submodules \(\#472\) [\#473](https://github.com/LucasLarson/ConnectTheDots/pull/473) ([LucasLarson](https://github.com/LucasLarson))
+
 **Fixed bugs:**
 
 - repair AsciiDoc syntax [\#462](https://github.com/LucasLarson/ConnectTheDots/issues/462)
@@ -11,6 +16,8 @@
 
 **Merged pull requests:**
 
+- bump awdeorio from `440ab74` to `5ff0bad` [\#471](https://github.com/LucasLarson/ConnectTheDots/pull/471) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump wincent from `3b25940` to `a382547` [\#470](https://github.com/LucasLarson/ConnectTheDots/pull/470) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `97e764f` to `3b25940` [\#468](https://github.com/LucasLarson/ConnectTheDots/pull/468) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `9ff849f` to `440ab74` [\#466](https://github.com/LucasLarson/ConnectTheDots/pull/466) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `e83a566` to `97e764f` [\#465](https://github.com/LucasLarson/ConnectTheDots/pull/465) ([dependabot[bot]](https://github.com/apps/dependabot))
