@@ -24,6 +24,19 @@ jobs:
         run: |
           command npm install markdownlint
           command npm install markdownlint-cli
+      - name: Ensure changelog exists
+        run: |
+          test -n "$(
+            command find -- . \
+              -maxdepth 1 \
+              -type f \
+              -name '*.m*d*' \
+              '(' \
+              -name 'change*log*' -o \
+              -name 'CHANGE*LOG*' \
+              ')'
+          )" ||
+            command touch -- ./changelog.md
       - name: Create local changes
         run: |
           command github_changelog_generator \
