@@ -8,7 +8,7 @@ on:
 
 jobs:
   format-json:
-    name: Format JSON files and create a Pull Request
+    name: Format JSON files and create a pull request
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
