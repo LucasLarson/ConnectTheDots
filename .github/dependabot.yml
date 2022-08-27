@@ -3,7 +3,16 @@
 # https://bit.ly/git-io_help-dependabot-configuration
 
 version: 2
+
 enable-beta-ecosystems: true
+
+registries:
+  herrbischoff:
+    type: git
+    url: https://git.herrbischoff.com
+    username: x-access-token
+    password: ${{ secrets.TOKEN }}
+
 updates:
 
   # Bundler
@@ -71,6 +80,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    registries: "*"
     ignore:
       # ignore patch updates for all dependencies
       - dependency-name: "*"
