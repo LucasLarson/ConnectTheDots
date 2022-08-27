@@ -3,7 +3,9 @@
 # https://bit.ly/git-io_help-dependabot-configuration
 
 version: 2
+
 enable-beta-ecosystems: true
+
 updates:
 
   # Bundler
