@@ -14,8 +14,13 @@
 - repair AsciiDoc syntax [\#462](https://github.com/LucasLarson/ConnectTheDots/issues/462)
 - repair AsciiDoc syntax \(fix \#462\) [\#463](https://github.com/LucasLarson/ConnectTheDots/pull/463) ([LucasLarson](https://github.com/LucasLarson))
 
+**Closed issues:**
+
+- Dependabot fails on some non-GitHub submodules [\#505](https://github.com/LucasLarson/ConnectTheDots/issues/505)
+
 **Merged pull requests:**
 
+- add git registry \(fix \#505\) [\#506](https://github.com/LucasLarson/ConnectTheDots/pull/506) ([LucasLarson](https://github.com/LucasLarson))
 - bump awdeorio from `b5187d6` to `7811423` [\#504](https://github.com/LucasLarson/ConnectTheDots/pull/504) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `e8f9ad7` to `859c35b` [\#503](https://github.com/LucasLarson/ConnectTheDots/pull/503) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `5103b8a` to `a7ff69e` [\#502](https://github.com/LucasLarson/ConnectTheDots/pull/502) ([dependabot[bot]](https://github.com/apps/dependabot))
