@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- bump webpro from `eec8d40` to `ca01e91` [\#509](https://github.com/LucasLarson/ConnectTheDots/pull/509) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `c730460` to `5c28a9b` [\#508](https://github.com/LucasLarson/ConnectTheDots/pull/508) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `859c35b` to `c730460` [\#507](https://github.com/LucasLarson/ConnectTheDots/pull/507) ([dependabot[bot]](https://github.com/apps/dependabot))
 - add git registry \(fix \#505\) [\#506](https://github.com/LucasLarson/ConnectTheDots/pull/506) ([LucasLarson](https://github.com/LucasLarson))
