@@ -14,6 +14,12 @@ registries:
     username: x-access-token
     password: ${{ secrets.TOKEN }}
 
+  sircmpwn:
+    type: git
+    url: https://git.sr.ht
+    username: x-access-token
+    password: ${{ secrets.TOKEN }}
+
 updates:
 
   # Bundler
