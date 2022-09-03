@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- add additional offsite registry for submodule \(\#505, \#506\) [\#514](https://github.com/LucasLarson/ConnectTheDots/pull/514) ([LucasLarson](https://github.com/LucasLarson))
 - bump wincent from `cb05661` to `14fdb35` [\#513](https://github.com/LucasLarson/ConnectTheDots/pull/513) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump DriesVints from `a95cab4` to `5c85df8` [\#512](https://github.com/LucasLarson/ConnectTheDots/pull/512) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `5c28a9b` to `cb05661` [\#511](https://github.com/LucasLarson/ConnectTheDots/pull/511) ([dependabot[bot]](https://github.com/apps/dependabot))
