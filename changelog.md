@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- bump awdeorio from `ff83063` to `0dddfc5` [\#525](https://github.com/LucasLarson/ConnectTheDots/pull/525) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `25c46b8` to `ff83063` [\#524](https://github.com/LucasLarson/ConnectTheDots/pull/524) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `c620dbf` to `25c46b8` [\#523](https://github.com/LucasLarson/ConnectTheDots/pull/523) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `ad15076` to `7925247` [\#522](https://github.com/LucasLarson/ConnectTheDots/pull/522) ([dependabot[bot]](https://github.com/apps/dependabot))
