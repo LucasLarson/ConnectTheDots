@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- update URLs after `victor-engmark` → `engmark` rename [\#549](https://github.com/LucasLarson/ConnectTheDots/pull/549) ([LucasLarson](https://github.com/LucasLarson))
 - bump ferrarimarco from `7cc32e4` to `b095abf` [\#547](https://github.com/LucasLarson/ConnectTheDots/pull/547) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `c9c37bb` to `7cc32e4` [\#546](https://github.com/LucasLarson/ConnectTheDots/pull/546) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `99516bf` to `74d234e` [\#545](https://github.com/LucasLarson/ConnectTheDots/pull/545) ([dependabot[bot]](https://github.com/apps/dependabot))
