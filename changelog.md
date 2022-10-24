@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- bump wincent from `b053d87` to `759457b` [\#552](https://github.com/LucasLarson/ConnectTheDots/pull/552) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ustasb from `a66d6d5` to `c001b2c` [\#550](https://github.com/LucasLarson/ConnectTheDots/pull/550) ([dependabot[bot]](https://github.com/apps/dependabot))
 - update URLs after `victor-engmark` → `engmark` rename [\#549](https://github.com/LucasLarson/ConnectTheDots/pull/549) ([LucasLarson](https://github.com/LucasLarson))
 - bump victor-engmark from `ae1ea41` to `3222ac5` [\#548](https://github.com/LucasLarson/ConnectTheDots/pull/548) ([dependabot[bot]](https://github.com/apps/dependabot))
