@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- bump awdeorio from `0830741` to `85c7ebd` [\#560](https://github.com/LucasLarson/ConnectTheDots/pull/560) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump DriesVints from `790b438` to `a13b05f` [\#559](https://github.com/LucasLarson/ConnectTheDots/pull/559) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump mislav from `56bfef1` to `9bf8fa1` [\#558](https://github.com/LucasLarson/ConnectTheDots/pull/558) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `d0d7178` to `0830741` [\#557](https://github.com/LucasLarson/ConnectTheDots/pull/557) ([dependabot[bot]](https://github.com/apps/dependabot))
