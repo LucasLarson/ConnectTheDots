@@ -9,7 +9,7 @@ on:
 jobs:
   format-json:
     name: Format JSON files and create a pull request
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
       - name: Install linter
