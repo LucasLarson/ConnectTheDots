@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- bump victor-engmark from `164fd53` to `cd7d872` [\#602](https://github.com/LucasLarson/ConnectTheDots/pull/602) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `7bf9d50` to `e7eafd6` [\#601](https://github.com/LucasLarson/ConnectTheDots/pull/601) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `2ecf07d` to `164fd53` [\#600](https://github.com/LucasLarson/ConnectTheDots/pull/600) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `a024a33` to `2ecf07d` \(\#597\) [\#599](https://github.com/LucasLarson/ConnectTheDots/pull/599) ([dependabot[bot]](https://github.com/apps/dependabot))
