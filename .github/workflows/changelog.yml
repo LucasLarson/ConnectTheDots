@@ -51,10 +51,12 @@ jobs:
           command github_changelog_generator \
             --user "$(
               command git ls-remote --get-url |
-                command sed -E \
-                  -e 's/(git@|(git|https?|ssh):\/\/)//' \
-                  -e 's/:/\//' \
-                  -e 's/[^\/]*\/([^\/]*)\/.*/\1/'
+                command sed \
+                  -e '# replace colons with forward slashes' \
+                  -e 'y/:/\//' \
+                  -e '# remove everything except the second-to-last' \
+                  -e '# forward slash-delimited field' \
+                  -e 's/.*\/\([^/]*\)\/[^/]*/\1/' \
             )" \
             --project "$(
               command git ls-remote --get-url |
