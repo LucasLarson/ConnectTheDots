@@ -20,6 +20,15 @@
 
 **Merged pull requests:**
 
+- bump ferrarimarco from `b185557` to `9a22c6e` [\#634](https://github.com/LucasLarson/ConnectTheDots/pull/634) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump DriesVints from `bca9582` to `f5a96fa` [\#633](https://github.com/LucasLarson/ConnectTheDots/pull/633) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump ferrarimarco from `c6ac8a8` to `b185557` [\#632](https://github.com/LucasLarson/ConnectTheDots/pull/632) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump awdeorio from `99edd10` to `5dc1d10` [\#631](https://github.com/LucasLarson/ConnectTheDots/pull/631) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump webpro from `2b1ab4b` to `f2137f2` [\#630](https://github.com/LucasLarson/ConnectTheDots/pull/630) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump awdeorio from `d005cd0` to `99edd10` [\#629](https://github.com/LucasLarson/ConnectTheDots/pull/629) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump DriesVints from `fa02b83` to `bca9582` [\#628](https://github.com/LucasLarson/ConnectTheDots/pull/628) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump awdeorio from `759221d` to `d005cd0` [\#627](https://github.com/LucasLarson/ConnectTheDots/pull/627) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `dd9b721` to `1b264fe` [\#626](https://github.com/LucasLarson/ConnectTheDots/pull/626) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `920fe2f` to `dd9b721` [\#625](https://github.com/LucasLarson/ConnectTheDots/pull/625) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `f7d79cd` to `759221d` [\#624](https://github.com/LucasLarson/ConnectTheDots/pull/624) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump webpro from `17147d7` to `2b1ab4b` [\#623](https://github.com/LucasLarson/ConnectTheDots/pull/623) ([dependabot[bot]](https://github.com/apps/dependabot))
