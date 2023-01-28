@@ -28,8 +28,6 @@ repositories that’ve been most helpful are included here as&nbsp;submodules.
   Kappert^]
 * https://github.com/mcornella/dotfiles/blob/e62b0d4c4f18a0373d8a7a1b4ddaa2e21b7f1ffd/zshenv[Marc
   Cornellà^]
-* https://github.com/herrbischoff/dotpr0n/commit/327f4a45d74b061b5224ce6067874d18b5cd4647#diff-0b5ca119d2be595aa307d34512d9679e49186307ef94201e4b3dfa079aa89938L5-R5[Marcel
-  Bischoff^]
 * https://github.com/ferrarimarco/dotfiles/search?q=shellcheck+zsh[Marco
   Ferrari^]
 * https://github.com/arp242/dotfiles/blob/dceb07e797f8045d45d83bedc32d2166e3822d42/zsh/zshrc#L11-L42[Martin

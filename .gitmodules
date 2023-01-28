@@ -16,9 +16,6 @@
 [submodule "LarsKappert"]
 	path = webpro
 	url = https://github.com/webpro/dotfiles
-[submodule "MarcelBischoff"]
-	path = herrbischoff
-	url = https://git.herrbischoff.com/dotpr0n
 [submodule "GeorgeGritsouk"]
 	path = gggritso
 	url = https://github.com/gggritso/dotfiles

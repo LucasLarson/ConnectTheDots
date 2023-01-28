@@ -8,12 +8,6 @@ enable-beta-ecosystems: true
 
 registries:
 
-  herrbischoff:
-    type: git
-    url: https://git.herrbischoff.com
-    username: x-access-token
-    password: ${{ secrets.TOKEN }}
-
   sircmpwn:
     type: git
     url: https://git.sr.ht
