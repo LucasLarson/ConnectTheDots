@@ -2,11 +2,24 @@
 
 ## [Unreleased](https://github.com/LucasLarson/ConnectTheDots/tree/HEAD)
 
-[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v1.0.0...HEAD)
+[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v1.1.0...HEAD)
+
+**Merged pull requests:**
+
+- bump victor-engmark from `f1d3acc` to `8b33d3b` [\#641](https://github.com/LucasLarson/ConnectTheDots/pull/641) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump awdeorio from `5dc1d10` to `df098ea` [\#640](https://github.com/LucasLarson/ConnectTheDots/pull/640) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump wincent from `8b23ed5` to `a43e26f` [\#639](https://github.com/LucasLarson/ConnectTheDots/pull/639) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `1b264fe` to `f1d3acc` [\#638](https://github.com/LucasLarson/ConnectTheDots/pull/638) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v1.1.0](https://github.com/LucasLarson/ConnectTheDots/tree/v1.1.0) (2023-01-29)
+
+[Full Changelog](https://github.com/LucasLarson/ConnectTheDots/compare/v1.0.0...v1.1.0)
 
 **Implemented enhancements:**
 
+- `git@` URIs aren’t accessible to humans; `https://` URIs are accessible to git [\#635](https://github.com/LucasLarson/ConnectTheDots/issues/635)
 - remove unhelpful top-level symlinks to top-level submodules [\#472](https://github.com/LucasLarson/ConnectTheDots/issues/472)
+- use human- and browser-accessible links to submodules \(\#635\) [\#636](https://github.com/LucasLarson/ConnectTheDots/pull/636) ([LucasLarson](https://github.com/LucasLarson))
 - remove symlinks to submodules \(\#472\) [\#473](https://github.com/LucasLarson/ConnectTheDots/pull/473) ([LucasLarson](https://github.com/LucasLarson))
 
 **Fixed bugs:**
@@ -20,6 +33,7 @@
 
 **Merged pull requests:**
 
+- bump PaulIrish from `98247bf` to `8936892` [\#637](https://github.com/LucasLarson/ConnectTheDots/pull/637) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `b185557` to `9a22c6e` [\#634](https://github.com/LucasLarson/ConnectTheDots/pull/634) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump DriesVints from `bca9582` to `f5a96fa` [\#633](https://github.com/LucasLarson/ConnectTheDots/pull/633) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `c6ac8a8` to `b185557` [\#632](https://github.com/LucasLarson/ConnectTheDots/pull/632) ([dependabot[bot]](https://github.com/apps/dependabot))
