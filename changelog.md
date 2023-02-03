@@ -6,6 +6,9 @@
 
 **Merged pull requests:**
 
+- bump ferrarimarco from `9a22c6e` to `151054a` [\#644](https://github.com/LucasLarson/ConnectTheDots/pull/644) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump webpro from `f2137f2` to `a3deb36` [\#643](https://github.com/LucasLarson/ConnectTheDots/pull/643) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump awdeorio from `df098ea` to `73ab5d7` [\#642](https://github.com/LucasLarson/ConnectTheDots/pull/642) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `f1d3acc` to `8b33d3b` [\#641](https://github.com/LucasLarson/ConnectTheDots/pull/641) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `5dc1d10` to `df098ea` [\#640](https://github.com/LucasLarson/ConnectTheDots/pull/640) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump wincent from `8b23ed5` to `a43e26f` [\#639](https://github.com/LucasLarson/ConnectTheDots/pull/639) ([dependabot[bot]](https://github.com/apps/dependabot))
