@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- bump awdeorio from `73ab5d7` to `17deb01` [\#645](https://github.com/LucasLarson/ConnectTheDots/pull/645) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `9a22c6e` to `151054a` [\#644](https://github.com/LucasLarson/ConnectTheDots/pull/644) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump webpro from `f2137f2` to `a3deb36` [\#643](https://github.com/LucasLarson/ConnectTheDots/pull/643) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump awdeorio from `df098ea` to `73ab5d7` [\#642](https://github.com/LucasLarson/ConnectTheDots/pull/642) ([dependabot[bot]](https://github.com/apps/dependabot))
