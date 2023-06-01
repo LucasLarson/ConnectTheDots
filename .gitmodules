@@ -1,54 +1,72 @@
 [submodule "MarcCornellà"]
-	path = mcornella
-	url = https://github.com/mcornella/dotfiles
+  branch = main
+  path = mcornella
+  url = https://github.com/mcornella/dotfiles
 [submodule "MathiasBynens"]
-	path = MathiasBynens
-	url = https://github.com/mathiasbynens/dotfiles
+  branch = master
+  path = MathiasBynens
+  url = https://github.com/mathiasbynens/dotfiles
 [submodule "BrianUstas"]
-	path = ustasb
-	url = https://github.com/ustasb/dotfiles
+  branch = master
+  path = ustasb
+  url = https://github.com/ustasb/dotfiles
 [submodule "MarcoFerrari"]
-	path = ferrarimarco
-	url = https://github.com/ferrarimarco/dotfiles
+  branch = master
+  path = ferrarimarco
+  url = https://github.com/ferrarimarco/dotfiles
 [submodule "BillyWayneMcCann"]
-	path = exergonic
-	url = https://github.com/exergonic/dotfiles
+  branch = master
+  path = exergonic
+  url = https://github.com/exergonic/dotfiles
 [submodule "LarsKappert"]
-	path = webpro
-	url = https://github.com/webpro/dotfiles
+  branch = main
+  path = webpro
+  url = https://github.com/webpro/dotfiles
 [submodule "GeorgeGritsouk"]
-	path = gggritso
-	url = https://github.com/gggritso/dotfiles
+  branch = main
+  path = gggritso
+  url = https://github.com/gggritso/dotfiles
 [submodule "TimButters"]
-	path = TimButters
-	url = https://github.com/TimButters/dotfiles
+  branch = master
+  path = TimButters
+  url = https://github.com/TimButters/dotfiles
 [submodule "GregHurrell"]
-	path = wincent
-	url = https://github.com/wincent/wincent
+  branch = master
+  path = wincent
+  url = https://github.com/wincent/wincent
 [submodule "NicolaPaolucci"]
-	path = durdn
-	url = https://github.com/durdn/cfg
+  branch = master
+  path = durdn
+  url = https://github.com/durdn/cfg
 [submodule "PaulIrish"]
-	path = PaulIrish
-	url = https://github.com/paulirish/dotfiles
+  branch = main
+  path = PaulIrish
+  url = https://github.com/paulirish/dotfiles
 [submodule "xero"]
-	path = xero
-	url = https://github.com/xero/dotfiles
+  branch = master
+  path = xero
+  url = https://github.com/xero/dotfiles
 [submodule "DriesVints"]
-	path = DriesVints
-	url = https://github.com/driesvints/dotfiles
+  branch = main
+  path = DriesVints
+  url = https://github.com/driesvints/dotfiles
 [submodule "arp242"]
-	path = arp242
-	url = https://github.com/arp242/dotfiles
+  branch = master
+  path = arp242
+  url = https://github.com/arp242/dotfiles
 [submodule "mislav"]
-	path = mislav
-	url = https://github.com/mislav/dotfiles
+  branch = master
+  path = mislav
+  url = https://github.com/mislav/dotfiles
 [submodule "awdeorio"]
-	path = awdeorio
-	url = https://github.com/awdeorio/dotfiles
+  branch = main
+  path = awdeorio
+  url = https://github.com/awdeorio/dotfiles
 [submodule "sircmpwn"]
-	path = sircmpwn
-	url = https://git.sr.ht/~sircmpwn/dotfiles
+  branch = master
+  path = sircmpwn
+  url = https://git.sr.ht/~sircmpwn/dotfiles
 [submodule "victor-engmark"]
-	path = victor-engmark
-	url = https://gitlab.com/engmark/tilde.git
+  branch = master
+  path = victor-engmark
+  url = https://gitlab.com/engmark/tilde.git
