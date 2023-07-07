@@ -43,7 +43,7 @@
   path = PaulIrish
   url = https://github.com/paulirish/dotfiles
 [submodule "xero"]
-  branch = vps
+  branch = main
   path = xero
   url = https://github.com/xero/dotfiles
 [submodule "DriesVints"]
