@@ -31,7 +31,7 @@
   path = TimButters
   url = https://github.com/TimButters/dotfiles
 [submodule "GregHurrell"]
-  branch = master
+  branch = main
   path = wincent
   url = https://github.com/wincent/wincent
 [submodule "NicolaPaolucci"]
