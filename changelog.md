@@ -10,6 +10,21 @@
 
 **Merged pull requests:**
 
+- bump ferrarimarco from `f01ef6d` to `62e06a4` [\#741](https://github.com/LucasLarson/ConnectTheDots/pull/741) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `dc4d005` to `dbcda7f` \(\#739, \#740\) [\#740](https://github.com/LucasLarson/ConnectTheDots/pull/740) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump DriesVints from `fd6fe25` to `b83318c` [\#738](https://github.com/LucasLarson/ConnectTheDots/pull/738) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `7c10d5c` to `dc4d005` [\#737](https://github.com/LucasLarson/ConnectTheDots/pull/737) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `78ea8c0` to `7c10d5c` [\#736](https://github.com/LucasLarson/ConnectTheDots/pull/736) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump xero from `6442229` to `9d6e4ee` [\#735](https://github.com/LucasLarson/ConnectTheDots/pull/735) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump awdeorio from `5f21c9f` to `b1521ed` [\#734](https://github.com/LucasLarson/ConnectTheDots/pull/734) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump wincent from `c6521bd` to `9f25be2` [\#733](https://github.com/LucasLarson/ConnectTheDots/pull/733) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump xero from `a0b70ad` to `6442229` [\#732](https://github.com/LucasLarson/ConnectTheDots/pull/732) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump xero from `3cfd055` to `a0b70ad` [\#731](https://github.com/LucasLarson/ConnectTheDots/pull/731) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump wincent from `b63149f` to `c6521bd` [\#730](https://github.com/LucasLarson/ConnectTheDots/pull/730) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump xero from `98ad2a8` to `3cfd055` [\#729](https://github.com/LucasLarson/ConnectTheDots/pull/729) ([dependabot[bot]](https://github.com/apps/dependabot))
+- follow submodule branch `main` instead of `master` [\#728](https://github.com/LucasLarson/ConnectTheDots/pull/728) ([LucasLarson](https://github.com/LucasLarson))
+- bump victor-engmark from `205abe7` to `78ea8c0` [\#727](https://github.com/LucasLarson/ConnectTheDots/pull/727) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump xero from `819525c` to `98ad2a8` [\#726](https://github.com/LucasLarson/ConnectTheDots/pull/726) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump xero from `1b4fbee` to `819525c` [\#725](https://github.com/LucasLarson/ConnectTheDots/pull/725) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump xero from `f73026a` to `1b4fbee` [\#724](https://github.com/LucasLarson/ConnectTheDots/pull/724) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `5dc2dbc` to `205abe7` [\#723](https://github.com/LucasLarson/ConnectTheDots/pull/723) ([dependabot[bot]](https://github.com/apps/dependabot))
