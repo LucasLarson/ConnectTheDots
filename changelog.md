@@ -10,6 +10,15 @@
 
 **Merged pull requests:**
 
+- bump victor-engmark from `fbd071f` to `3b362eb` [\#751](https://github.com/LucasLarson/ConnectTheDots/pull/751) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump xero from `9d6e4ee` to `4b3ed5e` [\#749](https://github.com/LucasLarson/ConnectTheDots/pull/749) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump PaulIrish from `10b1116` to `cc4c719` [\#748](https://github.com/LucasLarson/ConnectTheDots/pull/748) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `2ab64b5` to `fbd071f` [\#747](https://github.com/LucasLarson/ConnectTheDots/pull/747) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump DriesVints from `b83318c` to `5be335e` [\#746](https://github.com/LucasLarson/ConnectTheDots/pull/746) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump PaulIrish from `f4185a0` to `10b1116` [\#745](https://github.com/LucasLarson/ConnectTheDots/pull/745) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `e7a7c06` to `2ab64b5` [\#744](https://github.com/LucasLarson/ConnectTheDots/pull/744) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump victor-engmark from `dbcda7f` to `e7a7c06` [\#743](https://github.com/LucasLarson/ConnectTheDots/pull/743) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump ferrarimarco from `62e06a4` to `f4b5c25` [\#742](https://github.com/LucasLarson/ConnectTheDots/pull/742) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump ferrarimarco from `f01ef6d` to `62e06a4` [\#741](https://github.com/LucasLarson/ConnectTheDots/pull/741) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `dc4d005` to `dbcda7f` \(\#739, \#740\) [\#740](https://github.com/LucasLarson/ConnectTheDots/pull/740) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump DriesVints from `fd6fe25` to `b83318c` [\#738](https://github.com/LucasLarson/ConnectTheDots/pull/738) ([dependabot[bot]](https://github.com/apps/dependabot))
