@@ -10,7 +10,11 @@
 
 **Merged pull requests:**
 
+- ci: follow Super-Linter to new organization [\#754](https://github.com/LucasLarson/ConnectTheDots/pull/754) ([LucasLarson](https://github.com/LucasLarson))
+- bump DriesVints from `793f1a0` to `264f537` [\#753](https://github.com/LucasLarson/ConnectTheDots/pull/753) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump DriesVints from `5be335e` to `793f1a0` [\#752](https://github.com/LucasLarson/ConnectTheDots/pull/752) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `fbd071f` to `3b362eb` [\#751](https://github.com/LucasLarson/ConnectTheDots/pull/751) ([dependabot[bot]](https://github.com/apps/dependabot))
+- bump PaulIrish from `cc4c719` to `60b3fcc` [\#750](https://github.com/LucasLarson/ConnectTheDots/pull/750) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump xero from `9d6e4ee` to `4b3ed5e` [\#749](https://github.com/LucasLarson/ConnectTheDots/pull/749) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump PaulIrish from `10b1116` to `cc4c719` [\#748](https://github.com/LucasLarson/ConnectTheDots/pull/748) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump victor-engmark from `2ab64b5` to `fbd071f` [\#747](https://github.com/LucasLarson/ConnectTheDots/pull/747) ([dependabot[bot]](https://github.com/apps/dependabot))
