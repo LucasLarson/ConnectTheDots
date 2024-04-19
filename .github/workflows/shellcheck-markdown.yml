@@ -4,6 +4,8 @@ name: Shellcheck code in Markdown
 
 on: [push]
 
+permissions: read-all
+
 jobs:
   build:
     runs-on: ubuntu-22.04
