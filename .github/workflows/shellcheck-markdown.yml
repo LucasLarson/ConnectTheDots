@@ -4,7 +4,8 @@ name: Shellcheck code in Markdown
 
 on: [push]
 
-permissions: read-all
+permissions:
+  contents: read
 
 jobs:
   build:
