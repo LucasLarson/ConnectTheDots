@@ -13,6 +13,12 @@ name: Super-Linter
 on:
   push:
 
+############################
+# Ensure safer permissions #
+############################
+permissions:
+  contents: read
+
 #####################################
 # Cancel any in-progress job or run #
 #####################################
@@ -22,11 +28,6 @@ concurrency:
   # https://docs.github.com/actions/using-jobs/using-concurrency
   group: ${{ github.ref }}
   cancel-in-progress: true
-
-############################
-# Ensure safer permissions #
-############################
-permissions: read-all
 
 ###############
 # Set the Job #
