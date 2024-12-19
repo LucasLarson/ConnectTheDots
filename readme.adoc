@@ -16,8 +16,6 @@ repositories that’ve been most helpful are included here as&nbsp;submodules.
   Wayne McCann^]
 * https://github.com/ustasb/dotfiles/commit/da93f0f5b2ef6491d6c2f96e53c29a241d2f82c5#diff-4c2d312ff50ee6b26c2cb601fc96a95eceabe4b456831762e5d6caf41b900383R127-R129[Brian
   Ustas^]
-* https://git.sr.ht/~sircmpwn/dotfiles/tree/730a6d11558f03823c26fbaa8641cc8e96fa7b4b/item/.vimrc[Drew
-  DeVault^]
 * https://github.com/driesvints/dotfiles/blob/77eb7d3a485acc0134ac8a9f927a7fcf2dce6c23/osx/.path#L2[Dries
   Vints^]
 * https://github.com/gggritso/dotfiles/blob/14218480eb64b884e3a65843f95e5293ae9796dd/gitconfig.symlink#L4-L5#:~:text=unstage%20%3D%20reset%20HEAD%20--[George

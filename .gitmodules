@@ -62,10 +62,6 @@
   branch = main
   path = awdeorio
   url = https://github.com/awdeorio/dotfiles
-[submodule "sircmpwn"]
-  branch = master
-  path = sircmpwn
-  url = https://git.sr.ht/~sircmpwn/dotfiles
 [submodule "victor-engmark"]
   branch = master
   path = victor-engmark
