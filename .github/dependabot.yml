@@ -6,7 +6,6 @@ version: 2
 
 enable-beta-ecosystems: true
 updates:
-
   # Bundler
   - package-ecosystem: "bundler"
     directory: "/"
@@ -166,4 +165,3 @@ updates:
       # ignore patch updates for all dependencies
       - dependency-name: "*"
         update-types: ["version-update:semver-minor"]
-...

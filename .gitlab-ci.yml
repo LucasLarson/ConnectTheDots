@@ -6,11 +6,9 @@ sast:
   stage: test
 
 include:
-
   # Code Quality
   - template: Jobs/Code-Quality.gitlab-ci.yml
 
   # Secret Detection
   - template: Security/SAST.gitlab-ci.yml
   - template: Security/Secret-Detection.gitlab-ci.yml
-...
